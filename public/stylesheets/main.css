@@ -9,3 +9,12 @@
 #delete-form{
     display: inline;
 }
+
+.navbar-brand img {
+border-radius: 50%;
+height: 100px;
+}
+
+.login-form{
+    text-align: center;
+}
