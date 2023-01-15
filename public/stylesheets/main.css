@@ -10,9 +10,10 @@
     display: inline;
 }
 
-.navbar-brand img {
+.brand-logo {
 border-radius: 50%;
-height: 100px;
+height: 50px;
+margin: 5px 0;
 }
 
 .login-form{
